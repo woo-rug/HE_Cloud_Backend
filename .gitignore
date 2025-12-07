@@ -1,0 +1,9 @@
+# .gitignore 파일
+.env
+__pycache__/
+venv/
+.idea/
+.vscode/
+*.enc
+*.eiv
+/uploads/
